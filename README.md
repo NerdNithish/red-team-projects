@@ -24,3 +24,6 @@ Simulated local root exploit with log tampering, fake user injection, and revers
 ---
 
 > 🎯 Built to showcase real-world attack–defense skills in Red Team and SOC workflows.
+
+---
+🔗 Let's connect on [LinkedIn](www.linkedin.com/in/nithish-kumar-cyber)
